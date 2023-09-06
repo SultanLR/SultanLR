@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SultanLR
 - 👀 I’m interested in ultrasound research
-- 🌱 I’m currently learning R studio to use for machine learning
+- 🌱 I’m currently learning R studio to use for machine learning, data managment, data visualization
   
 
 <!---
